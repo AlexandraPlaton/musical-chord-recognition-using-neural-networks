@@ -1,22 +1,22 @@
-# musical-chord-recognition-using-neural-networks
+#Musical Chord Recognition Using Neural Networks
 
-My Diploma Project
+##My Diploma Project
 
 This project creates an automatic system based on neural networks using Matlab that can detect 
 chords from musical samples, with a restrained application on music played on guitar. The targets of 
 the project are:
-• to describe the concept of Artificial Intelligence and the structure of a neural network
-• to present the main aspects of audio processing
-• to develop a relevant method of feature extraction from a signal
-• to develop a method of chord partition of an audio file
-• to choose an optimal neural network architecture and to adjust it to the chord recognition 
+-to describe the concept of Artificial Intelligence and the structure of a neural network
+-to present the main aspects of audio processing
+-to develop a relevant method of feature extraction from a signal
+-to develop a method of chord partition of an audio file
+-to choose an optimal neural network architecture and to adjust it to the chord recognition 
 system
-• to train the neural network with a large database of guitar chords
+-to train the neural network with a large database of guitar chords
 18
-• to test the software with a script that inputs audio files recorded on a guitar and to test 
+-to test the software with a script that inputs audio files recorded on a guitar and to test 
 the efficiency of the system
 
-Original contributions
+##Original contributions
 
 The substantial theoretical research that further played a major role in successfully finalizing 
 the experiments, along with the experimental results establish the contributions of the author. These 
