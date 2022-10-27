@@ -1,6 +1,6 @@
-#Musical Chord Recognition Using Neural Networks
+Musical Chord Recognition Using Neural Networks
 
-##My Diploma Project
+My Diploma Project
 
 This project creates an automatic system based on neural networks using Matlab that can detect 
 chords from musical samples, with a restrained application on music played on guitar. The targets of 
@@ -16,7 +16,7 @@ system
 -to test the software with a script that inputs audio files recorded on a guitar and to test 
 the efficiency of the system
 
-##Original contributions
+Original contributions
 
 The substantial theoretical research that further played a major role in successfully finalizing 
 the experiments, along with the experimental results establish the contributions of the author. These 
