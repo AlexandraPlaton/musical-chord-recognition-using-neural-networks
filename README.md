@@ -35,3 +35,5 @@ audio interface and creating a personal database of audio samples.
 - Developing of a test script that facilitated the achievements of the experiments and reaching 
 to some conclusions regarding each step of the project, how can it be further improved and 
 what may be some causes of errors
+
+[VIDEO TEST](https://www.youtube.com/watch?v=QG4YZUW0A5w)
